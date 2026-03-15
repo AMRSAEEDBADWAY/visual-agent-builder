@@ -1,0 +1,5 @@
+streamlit
+bcrypt
+cryptography
+streamlit-cookies-controller
+google-generativeai
